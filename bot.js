@@ -8,7 +8,7 @@ client.on('ready', () => {
 });
 
 
-const devs1 = ["378575138444017665"];
+const devs1 = ["378575138444017665","525434548939653151"];
 
 client.on('message', message => {
     let argresult = message.content.split(` `).slice(1).join(' ');
